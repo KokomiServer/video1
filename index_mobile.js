@@ -5,5 +5,5 @@ if(/mobile/i.test(navigator.userAgent)){}
 if((innerWidth/innerHeight)<1.4){}
 else{TurnIndex()};
 function TurnIndex(){
-    window.location.replace('kokomiserver.github.io/video0');
+    window.location.replace('https://kokomiserver.github.io/video0');
 };
