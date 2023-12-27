@@ -7,7 +7,7 @@ if((innerWidth/innerHeight)<1.4){}
 else{TurnIndex()};
 //函数
 function TurnIndex(){
-    window.location.replace('kokomiserver.github.io/video2');
+    window.location.replace('kokomiserver.github.io/video0');
 };
 function sleep(d){
     for(var t = Date.now();Date.now() - t <= d;);
