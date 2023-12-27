@@ -10,7 +10,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center 0;
-    background-image:url('/static/images/BG.jpg');
+    background-image:url('BG.jpg');
 }
 #center{
     position:fixed;
@@ -39,7 +39,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center 0;
-    background-image:url('/static/images/video_1.jpg');
+    background-image:url('video_1.jpg');
     border-color:#FFFFFFFF;
     border-style:solid;
     border-radius:0.625vh;
@@ -84,5 +84,5 @@
 }
 @font-face {
     font-family:'HYWH-75W';
-    src:url('/static/fonts/HYWH-75W.ttf');
+    src:url('HYWH-75W.ttf');
 }
